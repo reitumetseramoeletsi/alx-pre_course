@@ -1,1 +1,1 @@
-The first introduction to github project
+The first introduction to github project: Using pull command
